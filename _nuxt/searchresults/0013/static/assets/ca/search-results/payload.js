@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ca/search-results", {data:[{}],fetch:{},mutations:[]});
